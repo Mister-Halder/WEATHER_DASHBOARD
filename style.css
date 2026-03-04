@@ -126,7 +126,7 @@ button:hover {
 }
 
 /* ================= MOBILE ================= */
-@media (max-width: 600px) {
+@media (max-width: 480px) {
 
     .search-box {
         flex-direction: column;
@@ -143,4 +143,5 @@ button:hover {
     #temperature {
         font-size: 1.8rem;
     }
+
 }
